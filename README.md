@@ -3,7 +3,7 @@
 Consistency. Patterns. Growth.
 
 This repository contains my LeetCode solutions synced from my regular practice sessions.
-Problems are solved in a real-world interview style — randomly, strategically, and continuously improving.
+Problems are solved in a real-world interview style  randomly, strategically, and continuously improving.
 
 👩‍💻 About Me
 
